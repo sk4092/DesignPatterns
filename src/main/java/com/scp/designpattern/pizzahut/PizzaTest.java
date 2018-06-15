@@ -1,5 +1,8 @@
-package com.scp.designpattern.pizzahut.factory;
+package com.scp.designpattern.pizzahut;
 
+import com.scp.designpattern.pizzahut.factory.NonVegPizzaFactory;
+import com.scp.designpattern.pizzahut.factory.PizzaFactory;
+import com.scp.designpattern.pizzahut.factory.VegPizzaFactory;
 import com.scp.designpattern.pizzahut.model.Pizza;
 
 public class PizzaTest {
